@@ -1,0 +1,10 @@
+org.springframework.context.ApplicationListener=\
+com.xh.example.listener.ContextClosedExample,\
+com.xh.example.listener.ContextInitializedExample,\
+com.xh.example.listener.ContextRefreshedExample,\
+com.xh.example.listener.EnvironmentPreparedExample,\
+com.xh.example.listener.PreparedExample,\
+com.xh.example.listener.ReadyExample,\
+com.xh.example.listener.ServletWebServerInitializedExample,\
+com.xh.example.listener.StartedExample,\
+com.xh.example.listener.StartingExample  
