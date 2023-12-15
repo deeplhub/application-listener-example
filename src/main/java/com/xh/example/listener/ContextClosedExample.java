@@ -1,11 +1,11 @@
 package com.xh.example.listener;
 
-import org.springframework.boot.context.event.ApplicationStartingEvent;
 import org.springframework.context.ApplicationListener;
 import org.springframework.context.event.ContextClosedEvent;
-import org.springframework.stereotype.Component;
 
 /**
+ * 应用程序关闭时执行相应的操作
+ *
  * @author H.Yang
  * @date 2023/8/30
  */
